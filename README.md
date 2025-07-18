@@ -40,7 +40,7 @@ project_root/
 
 ## 3. Data description
 
-###📌 Dataset Overview
+### 📌 Dataset Overview
 
 - **train.csv** : 학습용 데이터셋, 총 약 ‘1,118,822’개
 - **test.csv** : 테스트셋 (target 미포함) , 총 약 ‘9,272’’개
