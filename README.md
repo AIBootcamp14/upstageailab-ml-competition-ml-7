@@ -4,7 +4,7 @@
 
 | ![안희원](https://avatars.githubusercontent.com/u/156163982?v=4) | ![정민지](https://avatars.githubusercontent.com/u/156163982?v=4) | ![김명철](https://avatars.githubusercontent.com/u/156163982?v=4) | ![민병호](https://avatars.githubusercontent.com/u/156163982?v=4) |
 |:--------------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
-| [안희원](https://github.com/dukduk12) <br> 팀장, DS | [정민지](https://github.com/UpstageAILab) <br> DS | [김명철](https://github.com/UpstageAILab) <br> DS | [민병호](https://github.com/UpstageAILab) <br> DS |
+| [안희원](https://github.com/dukduk12) <br> 팀장, DS | [정민지](https://github.com/mingg210) <br> DS | [김명철](https://github.com/qpwpep) <br> DS | [민병호](https://github.com/BH-Min-lab) <br> DS |
 
 
 ## 1. Competition Info
@@ -105,9 +105,3 @@ LGB (feature_version8) : 16194.0080(public) 11534.0853(private)
 - 향후 외부 정보 통합과 공간적 관계 고려가 성능 개선의 핵심 포인트
 ---
 
-
-- _Insert your meeting log link like Notion or Google Docs_
-
-### Reference
-
-- _Insert related reference_
