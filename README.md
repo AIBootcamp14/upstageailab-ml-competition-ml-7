@@ -96,7 +96,7 @@ LGB (feature_version8) : 16194.0080(public) 11534.0853(private)
 ## 6. 🧾 Conclusion
 
 ### 한계 및 향후 개선 방향
-- **지역성(Locality)**을 고려한 **공간 기반 모델**(예: Geo-spatial regression, Graph Neural Networks)의 도입 가능성
+-  **지역성(Locality)** 을 고려한 **공간 기반 모델**(예: Geo-spatial regression, Graph Neural Networks)의 도입 가능성
 - 공공데이터 포털, 국토교통부 API 등을 통해 **추가적인 외부 정보**(예: 학군, 인구 밀도, 인근 개발 계획 등) 확보 시 더 정확한 예측 가능
 - Surrogate 방법의 시도는 좋았으나 일반화가 부족. Ensemble의 경우 모델이 서로 상호 보완을 하여 성과가 좋았음을 확인
 ---
