@@ -72,7 +72,9 @@ project_root/
 
 ### Model result
 ensemble (feature-version3) : 17989.8598(public) 11747.9527(private)
+
 surrogate (feature_version8) : 14489.7672(public) 13091.14772(private)
+
 LGB (feature_version8) : 16194.0080(public) 11534.0853(private)
 
 
