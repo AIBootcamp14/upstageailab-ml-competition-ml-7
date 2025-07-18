@@ -26,8 +26,6 @@
 – ŷᵢ: i번째 예측값
 – yᵢ: i번째 실제값
 
-
-—
 ## 2. Components
 
 ### Directory
@@ -39,7 +37,7 @@ project_root/
 ├── 📁 EDA/                 # EDA 분석 코드
 ```
 
-—
+
 ## 3. Data description
 
 ###📌 Dataset Overview
