@@ -75,7 +75,7 @@ ensemble (feature-version3) : 17989.8598(public) 11747.9527(private)
 surrogate (feature_version8) : 14489.7672(public) 13091.14772(private)
 LGB (feature_version8) : 16194.0080(public) 11534.0853(private)
 
-—
+
 ## 5. Result
 
 ### 🏆 Leader Board
@@ -91,7 +91,7 @@ LGB (feature_version8) : 16194.0080(public) 11534.0853(private)
 
 - 주요 내용:
   - 데이터 이해 → EDA → 모델링 전략 → 성능 비교 → 결론
-—
+
 ## 6. 🧾 Conclusion
 
 ### 한계 및 향후 개선 방향
