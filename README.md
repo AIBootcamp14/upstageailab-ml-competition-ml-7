@@ -59,14 +59,13 @@ project_root/
 - 지역 및 층별 graph
 - feature importance
 ### Feature engineering
-
-1. 데이터분석 결과로 피쳐 필터링
-2. 도메인 지식을 활용한 파생변수 생성
-3 추가 외부 데이터셋 수집 및 가공
-4 데이터 분석을 토대로 검증 및 수정
-5 Target log transform
-6 Split 된 데이터 분포 확인
-7 Data Split 방식 : Hold-out, Time-Series, K-fold
+- 데이터분석 결과로 피쳐 필터링
+- 도메인 지식을 활용한 파생변수 생성
+- 추가 외부 데이터셋 수집 및 가공
+- 데이터 분석을 토대로 검증 및 수정
+- Target log transform
+- Split 된 데이터 분포 확인
+- Data Split 방식 : Hold-out, Time-Series, K-fold
 
 ## 4. Modeling
 
