@@ -83,7 +83,7 @@ LGB (feature_version8) : 16194.0080(public) 11534.0853(private)
 - **순위**: 🥇 **1위**
 - **RMSE**: `13091.1472`
 
-![leaderboard_capture](./Asset/outputs/leaderboard.png)
+![leaderboard_capture](./Asset/outputs/leaderboard_capture.png)
 
 ### Presentation
 
